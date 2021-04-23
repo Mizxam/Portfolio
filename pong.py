@@ -253,12 +253,12 @@ while True:
 ## posx,posy and so on, I decided to split them instead of using an
 ## array/list, because the code was cleaner and easier to understand
 ## on the run, position[0] (x) neither position[1] (y)
-## was better or clearer than posx and posy respectively.
+## were better or clearer than posx and posy respectively.
 ## Besides there was neither a performance boost using it, (maybe yes)
 ## but not a significative one to justify that position[whoknows].
 ## ... lets keep that sin as our little secret... ok, moving on..
 ##
-## Most bounce reactions aren't just fliping velocities, all of the
+## Most bounce reactions aren't just flipped velocities, all of the
 ## bounces are made with trigonometric formulas in order to make
 ## the game a little more umpredictable (and funnier!), we can resume
 ## 2 types of bounce, one that takes a barrier pos and the ball pos,
