@@ -1,0 +1,170 @@
+[
+  {
+    "name": "cobble",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "id": 0
+  },
+  {
+    "name": "cobble",
+    "x": 0,
+    "y": 0,
+    "z": 1,
+    "id": 1
+  },
+  {
+    "name": "cobble",
+    "x": 0,
+    "y": 0,
+    "z": 2,
+    "id": 2
+  },
+  {
+    "name": "cobble",
+    "x": 0,
+    "y": 0,
+    "z": 3,
+    "id": 3
+  },
+  {
+    "name": "cobble",
+    "x": 0,
+    "y": 0,
+    "z": 4,
+    "id": 4
+  },
+  {
+    "name": "cobble",
+    "x": 0,
+    "y": 0,
+    "z": 5,
+    "id": 5
+  },
+  {
+    "name": "cobble",
+    "x": 1,
+    "y": 0,
+    "z": 6,
+    "id": 6
+  },
+  {
+    "name": "glowstone",
+    "x": 2,
+    "y": 0,
+    "z": 1,
+    "id": 7
+  },
+  {
+    "name": "cobble",
+    "x": 2,
+    "y": 0,
+    "z": 6,
+    "id": 8
+  },
+  {
+    "name": "glowstone",
+    "x": 3,
+    "y": 0,
+    "z": 3,
+    "id": 9
+  },
+  {
+    "name": "cobble",
+    "x": 3,
+    "y": 0,
+    "z": 6,
+    "id": 10
+  },
+  {
+    "name": "glowstone",
+    "x": 4,
+    "y": 0,
+    "z": 4,
+    "id": 11
+  },
+  {
+    "name": "cobble",
+    "x": 4,
+    "y": 0,
+    "z": 6,
+    "id": 12
+  },
+  {
+    "name": "glowstone",
+    "x": 5,
+    "y": 0,
+    "z": 3,
+    "id": 13
+  },
+  {
+    "name": "cobble",
+    "x": 5,
+    "y": 0,
+    "z": 6,
+    "id": 14
+  },
+  {
+    "name": "glowstone",
+    "x": 6,
+    "y": 0,
+    "z": 1,
+    "id": 15
+  },
+  {
+    "name": "cobble",
+    "x": 6,
+    "y": 0,
+    "z": 6,
+    "id": 16
+  },
+  {
+    "name": "cobble",
+    "x": 7,
+    "y": 0,
+    "z": 6,
+    "id": 17
+  },
+  {
+    "name": "cobble",
+    "x": 8,
+    "y": 0,
+    "z": 0,
+    "id": 18
+  },
+  {
+    "name": "cobble",
+    "x": 8,
+    "y": 0,
+    "z": 1,
+    "id": 19
+  },
+  {
+    "name": "cobble",
+    "x": 8,
+    "y": 0,
+    "z": 2,
+    "id": 20
+  },
+  {
+    "name": "cobble",
+    "x": 8,
+    "y": 0,
+    "z": 3,
+    "id": 21
+  },
+  {
+    "name": "cobble",
+    "x": 8,
+    "y": 0,
+    "z": 4,
+    "id": 22
+  },
+  {
+    "name": "cobble",
+    "x": 8,
+    "y": 0,
+    "z": 5,
+    "id": 23
+  }
+]

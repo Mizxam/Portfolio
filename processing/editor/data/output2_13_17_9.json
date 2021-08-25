@@ -1,0 +1,352 @@
+[
+  {
+    "name": "glowstone",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "id": 0
+  },
+  {
+    "name": "glowstone",
+    "x": 0,
+    "y": 0,
+    "z": 1,
+    "id": 1
+  },
+  {
+    "name": "glowstone",
+    "x": 0,
+    "y": 0,
+    "z": 2,
+    "id": 2
+  },
+  {
+    "name": "glowstone",
+    "x": 0,
+    "y": 0,
+    "z": 4,
+    "id": 3
+  },
+  {
+    "name": "glowstone",
+    "x": 1,
+    "y": 0,
+    "z": 0,
+    "id": 4
+  },
+  {
+    "name": "glowstone",
+    "x": 1,
+    "y": 0,
+    "z": 2,
+    "id": 5
+  },
+  {
+    "name": "glowstone",
+    "x": 1,
+    "y": 0,
+    "z": 4,
+    "id": 6
+  },
+  {
+    "name": "glowstone",
+    "x": 2,
+    "y": 0,
+    "z": 0,
+    "id": 7
+  },
+  {
+    "name": "glowstone",
+    "x": 2,
+    "y": 0,
+    "z": 2,
+    "id": 8
+  },
+  {
+    "name": "glowstone",
+    "x": 2,
+    "y": 0,
+    "z": 3,
+    "id": 9
+  },
+  {
+    "name": "glowstone",
+    "x": 2,
+    "y": 0,
+    "z": 4,
+    "id": 10
+  },
+  {
+    "name": "glowstone",
+    "x": 4,
+    "y": 0,
+    "z": 0,
+    "id": 11
+  },
+  {
+    "name": "glowstone",
+    "x": 4,
+    "y": 0,
+    "z": 1,
+    "id": 12
+  },
+  {
+    "name": "glowstone",
+    "x": 4,
+    "y": 0,
+    "z": 2,
+    "id": 13
+  },
+  {
+    "name": "glowstone",
+    "x": 4,
+    "y": 0,
+    "z": 3,
+    "id": 14
+  },
+  {
+    "name": "glowstone",
+    "x": 4,
+    "y": 0,
+    "z": 4,
+    "id": 15
+  },
+  {
+    "name": "glowstone",
+    "x": 5,
+    "y": 0,
+    "z": 0,
+    "id": 16
+  },
+  {
+    "name": "glowstone",
+    "x": 5,
+    "y": 0,
+    "z": 2,
+    "id": 17
+  },
+  {
+    "name": "glowstone",
+    "x": 6,
+    "y": 0,
+    "z": 0,
+    "id": 18
+  },
+  {
+    "name": "glowstone",
+    "x": 6,
+    "y": 0,
+    "z": 2,
+    "id": 19
+  },
+  {
+    "name": "glowstone",
+    "x": 6,
+    "y": 0,
+    "z": 3,
+    "id": 20
+  },
+  {
+    "name": "glowstone",
+    "x": 6,
+    "y": 0,
+    "z": 4,
+    "id": 21
+  },
+  {
+    "name": "glowstone",
+    "x": 8,
+    "y": 0,
+    "z": 0,
+    "id": 22
+  },
+  {
+    "name": "glowstone",
+    "x": 8,
+    "y": 0,
+    "z": 1,
+    "id": 23
+  },
+  {
+    "name": "glowstone",
+    "x": 8,
+    "y": 0,
+    "z": 2,
+    "id": 24
+  },
+  {
+    "name": "glowstone",
+    "x": 8,
+    "y": 0,
+    "z": 3,
+    "id": 25
+  },
+  {
+    "name": "glowstone",
+    "x": 8,
+    "y": 0,
+    "z": 4,
+    "id": 26
+  },
+  {
+    "name": "glowstone",
+    "x": 9,
+    "y": 0,
+    "z": 0,
+    "id": 27
+  },
+  {
+    "name": "glowstone",
+    "x": 10,
+    "y": 0,
+    "z": 1,
+    "id": 28
+  },
+  {
+    "name": "glowstone",
+    "x": 11,
+    "y": 0,
+    "z": 0,
+    "id": 29
+  },
+  {
+    "name": "glowstone",
+    "x": 12,
+    "y": 0,
+    "z": 0,
+    "id": 30
+  },
+  {
+    "name": "glowstone",
+    "x": 12,
+    "y": 0,
+    "z": 1,
+    "id": 31
+  },
+  {
+    "name": "glowstone",
+    "x": 12,
+    "y": 0,
+    "z": 2,
+    "id": 32
+  },
+  {
+    "name": "glowstone",
+    "x": 12,
+    "y": 0,
+    "z": 3,
+    "id": 33
+  },
+  {
+    "name": "glowstone",
+    "x": 12,
+    "y": 0,
+    "z": 4,
+    "id": 34
+  },
+  {
+    "name": "glowstone",
+    "x": 14,
+    "y": 0,
+    "z": 0,
+    "id": 35
+  },
+  {
+    "name": "glowstone",
+    "x": 14,
+    "y": 0,
+    "z": 1,
+    "id": 36
+  },
+  {
+    "name": "glowstone",
+    "x": 14,
+    "y": 0,
+    "z": 2,
+    "id": 37
+  },
+  {
+    "name": "glowstone",
+    "x": 14,
+    "y": 0,
+    "z": 3,
+    "id": 38
+  },
+  {
+    "name": "glowstone",
+    "x": 15,
+    "y": 0,
+    "z": 1,
+    "id": 39
+  },
+  {
+    "name": "glowstone",
+    "x": 15,
+    "y": 0,
+    "z": 4,
+    "id": 40
+  },
+  {
+    "name": "glowstone",
+    "x": 16,
+    "y": 0,
+    "z": 0,
+    "id": 41
+  },
+  {
+    "name": "glowstone",
+    "x": 16,
+    "y": 0,
+    "z": 1,
+    "id": 42
+  },
+  {
+    "name": "glowstone",
+    "x": 16,
+    "y": 0,
+    "z": 2,
+    "id": 43
+  },
+  {
+    "name": "glowstone",
+    "x": 16,
+    "y": 0,
+    "z": 3,
+    "id": 44
+  },
+  {
+    "name": "glowstone",
+    "x": 18,
+    "y": 0,
+    "z": 0,
+    "id": 45
+  },
+  {
+    "name": "glowstone",
+    "x": 18,
+    "y": 0,
+    "z": 1,
+    "id": 46
+  },
+  {
+    "name": "glowstone",
+    "x": 18,
+    "y": 0,
+    "z": 2,
+    "id": 47
+  },
+  {
+    "name": "glowstone",
+    "x": 18,
+    "y": 0,
+    "z": 3,
+    "id": 48
+  },
+  {
+    "name": "glowstone",
+    "x": 18,
+    "y": 0,
+    "z": 4,
+    "id": 49
+  }
+]
